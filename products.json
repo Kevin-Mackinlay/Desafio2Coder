@@ -1,0 +1,4 @@
+[
+  { "title": "zapatillas", "description": "las zapatillas modelo SPRINT son excelentes para correr", "price": 35000, "id": 1 },
+  { "title": "short", "description": "short para jugar al futbol", "price": 12000, "id": 2 }
+]
