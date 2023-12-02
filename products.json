@@ -1,4 +1,1 @@
-[
-  { "title": "zapatillas", "description": "las zapatillas modelo SPRINT son excelentes para correr", "price": 35000, "id": 1 },
-  { "title": "short", "description": "short para jugar al futbol", "price": 12000, "id": 2 }
-]
+[{"title":"zapatillas","description":"las zapatillas modelo SPRINT son excelentes para correr","price":35000,"id":1},{"title":"short","description":"short para jugar al futbol","price":12000,"id":2},{"title":"sandals","description":"las sandals modelo BEACH son excelentes para la arena","price":20000,"thumbnail":"","code":"","stock":10,"id":3}]

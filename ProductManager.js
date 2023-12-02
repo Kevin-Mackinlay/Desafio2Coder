@@ -119,18 +119,20 @@ const productManager = new ProductManager("./products.json");
 
 // console.log(await productManager.getProducts());
 
-// await productManager.addProduct("zapatillas", "las zapatillas modelo SPRINT son excelentes para correr", 20000);
+// await productManager.addProduct("zapatillas", "las zapatillas modelo SPRINT son excelentes para correr", 20000, "", "", 10);
 
-// console.log(productManager.getProducts());
+
 
 // await productManager.addProduct("short", "short para jugar al futbol")
 
-// console.log(productManager.getProductsById(2));
+// console.log( await productManager.getProductsById(2));
 
 // await productManager.addProduct("short", "short para jugar al futbol", 12000);
 
 // await productManager.deleteProductsById(2)
 
 // console.log(await productManager.getProducts());
-await productManager.updateProduct(1, "price", 35000);
+// await productManager.updateProduct(1, "price", 35000);
+// console.log(await productManager.getProducts());
+await productManager.addProduct("sandals", "las sandals modelo BEACH son excelentes para la arena", 20000, "", "", 10);
 console.log(await productManager.getProducts());
